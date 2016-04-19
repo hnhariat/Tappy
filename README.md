@@ -15,7 +15,7 @@
 1. Touch Event 학습용
 
 #화면
-<img src="./screenshots/animation.gif" width="240">
+<img src="./screenshots/animate.gif" width="240">
 
 #Licence
 Copyright 2016 Bang Sunje
